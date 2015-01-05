@@ -9,6 +9,8 @@ public class MainClass {
         System.out.println("Hello world everybody!");
         System.out.println("Het is 16u!");
         System.out.println("We hebben al flink gewerkt!!!");
+        System.out.println("Ik heb zelfs al heeeeel flink gewerkt!!! rarara wie ben ik?");
+        
         
         System.out.println("Het is gelukt!!!!! (hopelijk)");
         System.out.println("FINALE test");
