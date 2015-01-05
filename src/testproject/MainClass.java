@@ -11,6 +11,8 @@ public class MainClass {
         System.out.println("We hebben al flink gewerkt!!!");
         System.out.println("Ik heb zelfs al heeeeel flink gewerkt!!! rarara wie ben ik?");
         
+        System.out.println("De echte botssing HIER");
+        
         System.out.println(" Hier moet het botsen ");
         System.out.println("Het is gelukt!!!!! (hopelijk)");
         System.out.println("FINALE test");
