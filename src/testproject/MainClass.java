@@ -5,5 +5,6 @@ public class MainClass {
         System.out.println("Hello world!");
         System.out.println("Hello world everybody!");
         System.out.println("Het is 16u!");
+        System.out.println("We hebben al flink gewerkt!!!");
     }
 }
