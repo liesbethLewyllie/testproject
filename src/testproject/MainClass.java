@@ -11,5 +11,6 @@ public class MainClass {
         System.out.println("We hebben al flink gewerkt!!!");
         
         System.out.println("Het is gelukt!!!!! (hopelijk)");
+        System.out.println("FINALE test");
     }
 }
